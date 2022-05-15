@@ -14,3 +14,7 @@ __________________________________________________________________
 Source code: https://github.com/hanwckf/rt-n56u
 
 Forked from: https://github.com/hanwckf/scut_padavan_build
+
+LOG:
+
+2022-05-15 加了中文和Shadowsocks插件（还没刷上去测试捏)
